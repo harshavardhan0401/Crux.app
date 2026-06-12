@@ -1,4 +1,4 @@
-<img width="1918" height="1015" alt="Screenshot 2026-06-12 121122" src="https://github.com/user-attachments/assets/880cecd1-51de-47b2-bb96-0ec282e311b0" /><img width="1918" height="1020" alt="Screenshot 2026-06-12 121112" src="https://github.com/user-attachments/assets/c43ac4c9-74cb-44ff-a494-c55009901471" /><img width="1918" height="1013" alt="Screenshot 2026-06-12 121052" src="https://github.com/user-attachments/assets/0fa1a4d3-67d4-43ea-b1f2-c962446f049c" /><img width="1918" height="1020" alt="Screenshot 2026-06-12 120344" src="https://github.com/user-attachments/assets/d3aba28b-916b-4c64-91ea-1c2769e54bad" /># Crux – Student Collaboration Platform
+# Crux – Student Collaboration Platform
 
 ## Overview
 Crux is a platform that helps students discover projects, find teammates, and collaborate on ideas, hackathons, startups, and open-source initiatives.
