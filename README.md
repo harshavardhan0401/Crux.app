@@ -52,3 +52,7 @@ Crux is a platform that helps students discover projects, find teammates, and co
 - Tailwind CSS
 - Firebase (if used)
 - Vite
+
+## Author
+Harsha Vardhan
+GitHub: https://github.com/harshavardhan0401
