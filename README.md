@@ -1,5 +1,8 @@
 # Crux – Student Collaboration Platform
 
+## Live Demo
+- https://cruxsite.netlify.app/
+
 ## Overview
 Crux is a platform that helps students discover projects, find teammates, and collaborate on ideas, hackathons, startups, and open-source initiatives.
 
