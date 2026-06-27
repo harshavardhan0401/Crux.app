@@ -18,47 +18,46 @@ Crux is a platform that helps students discover projects, find teammates, and co
 
 ## Screenshots
 1. Login
-2. <img width="1913" height="1011" alt="Screenshot 2026-06-12 115945" src="https://github.com/user-attachments/assets/4ca8a0a9-3fab-450d-b305-4c8a9ead8f90" />
+<img width="1918" height="1020" alt="Screenshot 2026-06-27 111124" src="https://github.com/user-attachments/assets/91de074d-a74a-49f2-b56d-1fa0709579f0" />
 
-3. Sign Up!
-4. <img width="1913" height="1011" alt="Screenshot 2026-06-12 115945" src="https://github.com/user-attachments/assets/3b86075e-3623-4145-8ffe-556023d7d74c" />
+2. Profile Setup
+<img width="1918" height="1012" alt="Screenshot 2026-06-27 111428" src="https://github.com/user-attachments/assets/4016df4e-22c8-4b30-9982-7748ecf3207f" />
 
-5. Profile Setup
-6. <img width="1918" height="1020" alt="Screenshot 2026-06-12 120237" src="https://github.com/user-attachments/assets/a7d2bb70-8dea-4d73-8e72-ca5f03e3c625" />
+3. Academic Details
+<img width="1918" height="1020" alt="Screenshot 2026-06-27 111457" src="https://github.com/user-attachments/assets/29252206-b15a-4755-bdbb-8d3b95c9b5e0" />
 
-7. Academic Details
-8. <img width="1918" height="1017" alt="Screenshot 2026-06-12 120310" src="https://github.com/user-attachments/assets/664fabb2-e556-4fe8-bab0-7afa7c55da5f" />
+4. Skills Selection
+<img width="1918" height="1020" alt="Screenshot 2026-06-27 111534" src="https://github.com/user-attachments/assets/78c3e2aa-ca04-41a7-9727-0a1c7496324a" />
 
-9. Skills Selection
-10. <img width="1918" height="1020" alt="Screenshot 2026-06-12 120344" src="https://github.com/user-attachments/assets/a5e9a506-1b40-4bf6-9e7a-8a3aa5807e07" />
+5. Roles & Interests
+<img width="1918" height="1020" alt="Screenshot 2026-06-27 111639" src="https://github.com/user-attachments/assets/c17c6d1b-4a7f-48eb-b537-e4c16b0ae72e" />
 
-11. Roles & Interests
-12. <img width="1918" height="1020" alt="Screenshot 2026-06-12 120401" src="https://github.com/user-attachments/assets/4ed6efad-8602-4cae-bd49-5403566ec5d5" />
+6. Profile Dashboard
+<img width="1918" height="1013" alt="Screenshot 2026-06-27 111653" src="https://github.com/user-attachments/assets/e8a09947-959e-4b0c-9b8d-e425ab4572ce" />
 
-13. Profile Dashboard
-14. <img width="1918" height="1013" alt="Screenshot 2026-06-12 121052" src="https://github.com/user-attachments/assets/0c1c9139-ef91-4d63-93df-0c7e5ca71b8f" />
+7. Home Dashboard
+<img width="1918" height="1017" alt="Screenshot 2026-06-27 111718" src="https://github.com/user-attachments/assets/ba83f5f7-6b10-4e0e-9ce4-9358b9d46fce" />
 
-15. Home Dashboard
-16. <img width="1918" height="1020" alt="Screenshot 2026-06-12 121112" src="https://github.com/user-attachments/assets/0e3580bb-9043-44a3-a65d-d9ebb2d26dc6" />
+8. Recommended Projects
+<img width="1918" height="1017" alt="Screenshot 2026-06-27 111730" src="https://github.com/user-attachments/assets/5c871168-39bd-4b08-be93-957a2b259631" />
 
-17. Recommended Projects
-18. <img width="1918" height="1015" alt="Screenshot 2026-06-12 121122" src="https://github.com/user-attachments/assets/59932bcc-f82c-4340-a2b2-9da1ccd69e98" />
+9. Explore Projects
+<img width="1918" height="1008" alt="Screenshot 2026-06-27 111742" src="https://github.com/user-attachments/assets/dcff2936-1469-4969-a993-8237f2338d45" />
 
-19. Explore Projects
-20. <img width="1913" height="1020" alt="Screenshot 2026-06-12 121129" src="https://github.com/user-attachments/assets/8394748e-b8e3-4164-911a-003edab9d3da" />
+10. My Projects
+<img width="1918" height="1017" alt="Screenshot 2026-06-27 112021" src="https://github.com/user-attachments/assets/9c043cc1-4aeb-49d3-b985-ebd8631e1fdc" />
 
-21. My Projects
-22. <img width="1918" height="1017" alt="Screenshot 2026-06-12 121136" src="https://github.com/user-attachments/assets/434e4982-c65f-438f-b017-74a1205b96e6" />
+11. Student Directory
+<img width="1917" height="1012" alt="Screenshot 2026-06-27 112042" src="https://github.com/user-attachments/assets/dbee27c9-436c-4d97-a651-51072d5d27b1" />
 
-23. Student Directory
-24. <img width="1918" height="1020" alt="Screenshot 2026-06-12 121144" src="https://github.com/user-attachments/assets/3ff6ab0e-cfee-434c-8678-f12a0a7350a0" />
+12. Team Finder
+<img width="1918" height="1025" alt="Screenshot 2026-06-27 112058" src="https://github.com/user-attachments/assets/6e03e7f9-f393-4352-aa37-6e7303a95e22" />
 
-25. Team Finder
-26. <img width="1918" height="1020" alt="Screenshot 2026-06-12 121151" src="https://github.com/user-attachments/assets/39eedec6-eaca-407d-b748-c87b76a63e3a" />
+13. Notifications
+<img width="1918" height="1013" alt="Screenshot 2026-06-27 112113" src="https://github.com/user-attachments/assets/602c8e12-3c8c-4bdb-af34-641f94274905" />
 
-27. Notifications
-28. <img width="1918" height="1020" alt="Screenshot 2026-06-12 121158" src="https://github.com/user-attachments/assets/e6fb9f17-c38e-4160-b249-5b6d29feb274" />
-
+14. Overall Profile Dashboard
+<img width="1918" height="1017" alt="Screenshot 2026-06-27 112412" src="https://github.com/user-attachments/assets/a7506307-4adf-45f6-a695-b34f23d2b805" />
 
 ## Tech Stack
 - React
